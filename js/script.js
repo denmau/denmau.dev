@@ -1,5 +1,5 @@
 
-const texts = ['Hello', '¡Hola!', 'Bonjour', 'Ciao', 'néih hóu', 'こんにちは'];
+const texts = ['Niaje', 'Hello', '¡Hola!', 'Bonjour', 'Ciao', 'néih hóu', 'こんにちは'];
 const textElement = document.getElementById('hello-animation');
 
 let index = 0;
